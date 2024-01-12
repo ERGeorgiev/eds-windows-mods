@@ -2,123 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# JustScroll
 
-[Link to another page](./another-page.html).
-[JustScroll](./project-justscroll.html).
+Change the volume of your system just by scrolling with your mouse. Watching a video or playing a fullscreen game? Avoid minimizing anything or losing focus every time you want to adjust your volume, Just Scroll instead!
 
-There should be whitespace between paragraphs.
+[![Steam](/assets/img/logo-steam.png')](https://store.steampowered.com/app/2675800/JustScroll/)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Features
+- Windows Key + Scroll. Control your volume no matter what you are doing. This will NOT minimize your game / application.
+	- Volume Adjust: hold the Windows key and scroll to adjust your volume.
+	- Mute: hold the Windows key and middle-click with your mouse to mute.
+- Taskbar Scroll. Control your volume with just one hand in an intuitive and easy way.
+	- Volume Adjust: position your cursor on the taskbar and scroll.
+	- Mute: position your cursor on the taskbar and middle-click with your mouse.
+	
+### Advanced Features
+- Emergency Mute. Has your friend ever sent you an annoyingly loud video that you wanted to mute instantly? Well now you can, as JustScroll has an "emergency mute" that will mute your volume instantly as soon as you scroll your volume down fast in a panic.
+- Precision Scroll. For the many that have an obsession with volume numbers, hold the left mouse button for a more precise adjustment of the volume. Is your volume stuck between 8 or 12? Bring it to 10. Or the other way around, whatever you prefer!
