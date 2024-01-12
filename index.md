@@ -4,10 +4,10 @@ layout: default
 
 # JustScroll
 
+[![Steam](/assets/img/logo-steam-small.png)](https://store.steampowered.com/app/2675800/JustScroll/)   [![Microsoft Store](/assets/img/logo-winstore-small.png)](https://store.steampowered.com/app/2675800/JustScroll/)
+
 Change the volume of your system just by scrolling with your mouse.
 
-<img src="/eds-windows-mods/assets/img/logo-steam.png" width="100">
-<img src="/eds-windows-mods/assets/img/logo-winstore.png" width="100">
 
 ## Features
 - Windows Key + Scroll. Control your volume no matter what you are doing. This will NOT minimize your game / application.
