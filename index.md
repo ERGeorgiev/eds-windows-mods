@@ -6,6 +6,8 @@ layout: default
 
 Change the volume of your system just by scrolling with your mouse. Watching a video or playing a fullscreen game? Avoid minimizing anything or losing focus every time you want to adjust your volume, Just Scroll instead!
 
+<img src="/assets/img/logo-steam.png" width="100">
+
  [![Steam](/assets/img/logo-steam.png =100x)](https://store.steampowered.com/app/2675800/JustScroll/)
   
 | | [![Steam](/assets/img/logo-steam.png)](https://store.steampowered.com/app/2675800/JustScroll/) | [![Microsoft Store](/assets/img/logo-winstore.png)](https://store.steampowered.com/app/2675800/JustScroll/) | |
