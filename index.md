@@ -12,6 +12,7 @@ Change the volume of your system just by scrolling with your mouse.
 - **Emergency Mute** - Scroll down fast to mute your volume instantly.
 - **Precision Scroll** - Hold the left mouse button while scrolling.
 
+
 # Watertime
 
 A simple reminder to help you drink more water during the day.
